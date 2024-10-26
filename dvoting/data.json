@@ -1,0 +1,21 @@
+{
+    "party": [
+        {
+        "id":1,
+      "partyName": "The official name of the political party",
+      "partySymbol": "URL_or_path_to_party_symbol_image",
+      "partyAbbreviation": "Party Abbreviation",
+      "leadersName": "Leader's Name",
+      "partyManifesto": "Brief description of the party's mission, values, or key policy goals.",
+      "contactInformation": {
+        "email": "email@example.com",
+        "phoneNumber": "+1234567890",
+        "officialAddress": "123 Party St, City, Country"
+      },
+      "partyRegistrationNumber": "Unique ID or registration number from the government or electoral body",
+      "foundingDate": "YYYY-MM-DD",
+      "partyColor": "Official color for visual representation"
+    }
+]
+  }
+  
